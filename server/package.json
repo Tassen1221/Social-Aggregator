@@ -10,11 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@sqlite.org/sqlite-wasm": "^3.51.2-build6",
     "bcrypt": "^6.0.0",
-    "better-sqlite3": "^12.6.2",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
-    "jsonwebtoken": "^9.0.3"
+    "jsonwebtoken": "^9.0.3",
+    "sqlite3": "^5.1.7"
   }
 }
