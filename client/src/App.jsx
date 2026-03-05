@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API = 'http://localhost:3001'
+const API = 'https://social-aggregator-backend-ubdf.onrender.com'
 
 function App() {
   const [token, setToken] = useState(null)
